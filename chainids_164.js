@@ -161,6 +161,7 @@ export default {
   "4326": "polymesh",
   "4337": "beam",
   "4442": "denergy testnet",
+  "4457": "oxin chain",
   "4488": "hydra chain",
   "4689": "iotex",
   "5000": "mantle",
